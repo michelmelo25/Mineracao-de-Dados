@@ -37,3 +37,5 @@ voltar para o padrão defaut
 6. se você ainda estiver com problemas, execute ``` curl 'http: // localhost: 8888 / custom / custom.css' ``` na linha de comando e inspecione manualmente o arquivo css que está sendo retornado se tiver CSS nele após todas essas etapas, você pode continuar seguindo o debuga mas neste momento você deve ser tudo de bom.
 7. reinicie seu notebook jupyter no modo de debug ``` Jupiter notebook --debug ```
 8. no início da depuração, ele tentou carregar a configuração de vários diretórios, dependendo da instalação e da estrutura do pacote. O arquivo custom / custom.css deve estar em um desses diretórios. Encontre-o e exclua-o.
+
+https://github.com/dunovank/jupyter-themes/issues/86
